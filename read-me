@@ -1,0 +1,5 @@
+This Java program is designed to solve the Josephus Problem, a mathematical puzzle that involves a group of people standing in a circle and being eliminated at regular intervals until only one person remains. The program utilizes data structures such as circular linked lists and queues to efficiently simulate the elimination process.
+
+To use the program, simply run the JosephusProblemSolver.java file and follow the prompts to input the number of people in the circle and the step size at which people are eliminated. The program will then simulate the elimination process and output the final surviving person.
+
+This program was developed as part of a project for CS143 Data Structures and Algorithms. Feel free to use and modify the code as needed for your own purposes. If you have any questions or issues, please feel free to contact me at wondwossenammanuel@gmail.com.
